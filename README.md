@@ -1,2 +1,11 @@
-# Udacity_project_1
-This project for practice all knowledge I learned in Course 2, Data Scientist, Udacity.
+# Key Factors Impacting Developer Satisfaction, Work Preferences, and Income Trends
+In this project I have tried to answering question that related to business, these questions are:
+  1- What factors contribute most to job satisfaction among developers?
+
+  2 - What factors influence a developer's decision to prefer remote work?
+
+  3 - What programming languages or technologies are correlated with higher income? 
+
+  Every question is answered in different Jupyter notebook.
+
+  
