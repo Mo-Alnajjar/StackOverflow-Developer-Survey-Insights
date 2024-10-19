@@ -1,16 +1,18 @@
-# Key Factors Impacting Developer Satisfaction, Work Preferences, and Income Trends
-In this project I have tried to answering question that related to business, these questions are:
- 
-  1- What factors contribute most to job satisfaction among developers?
-
-  2 - What factors influence a developer's decision to prefer remote work?
-
-  3 - What programming languages or technologies are correlated with higher income? 
-
-  Every question is answered in different Jupyter notebook.
+# StackOverflow Developer Survey Insights
+This project analyzes data from the StackOverflow Developer Survey to explore key factors influencing job satisfaction, preferences for remote work, and programming languages or technologies associated with higher incomes among developers. 
 
 ## Table of contents
 
-- [Installations](#nstallations)
+- Overview
+Questions Answered
 
+    1. Factors Contributing Most to Job Satisfaction
+    2. Factors Influencing Preference for Remote Work
+    3. Programming Languages or Technologies Correlated with Higher Income
+
+Technologies Used
+Installation
+Usage
+Dataset
+License
 ## Installations
