@@ -1,27 +1,24 @@
 # StackOverflow Developer Survey Insights
 This project analyzes data from the StackOverflow Developer Survey to explore key factors influencing job satisfaction, preferences for remote work, and programming languages or technologies associated with higher incomes among developers. 
 
-## Table of contents
-[Overview](#Overview)
-[Questions Answered](#Question_Answered)
+## Table of Contents
 
-    1. Factors Contributing Most to Job Satisfaction
-    2. Factors Influencing Preference for Remote Work
-    3. Programming Languages or Technologies Correlated with Higher Income
-
-Technologies Used
-Installation
-Usage
-Dataset
-License
+1. [Overview](#overview)
+2. [Questions Answered](#questions-answered)
+   - [1. Factors Contributing Most to Job Satisfaction](#1-factors-contributing-most-to-job-satisfaction)
+   - [2. Factors Influencing Preference for Remote Work](#2-factors-influencing-preference-for-remote-work)
+   - [3. Programming Languages or Technologies Correlated with Higher Income](#3-programming-languages-or-technologies-correlated-with-higher-income)
+3. [Technologies Used](#technologies-used)
+4. [Dataset](#dataset)
+5. [License](#license)
 
 
 ## Overview
 
 The StackOverflow Developer Survey is one of the largest and most comprehensive studies of developers around the world. In this project, we explore the following three questions based on the survey results:
-    What factors contribute most to job satisfaction among developers?
-    What factors influence a developer's decision to prefer remote work?
-    What programming languages or technologies are correlated with higher income?
+    1 - What factors contribute most to job satisfaction among developers?
+    2 - What factors influence a developer's decision to prefer remote work?
+    3 - What programming languages or technologies are correlated with higher income?
 
 Questions Answered:
 ## 1. Factors Contributing Most to Job Satisfaction
@@ -54,3 +51,10 @@ The analysis of the survey data shows that certain programming languages and tec
    Python
    Pandas (Data analysis)
    Matplotlib, Seaborn (Data visualization)
+
+  ## Dataset
+
+The dataset used in this project can be accessed from StackOverflow's public survey.
+## License
+
+This project is licensed under the MIT License.
