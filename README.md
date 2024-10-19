@@ -16,8 +16,8 @@ This project analyzes data from the StackOverflow Developer Survey to explore ke
 ## Overview
 
 The StackOverflow Developer Survey is one of the largest and most comprehensive studies of developers around the world. In this project, we explore the following three questions based on the survey results:
-    1 - What factors contribute most to job satisfaction among developers?
-    2 - What factors influence a developer's decision to prefer remote work?
+    1 - What factors contribute most to job satisfaction among developers? <br>
+    2 - What factors influence a developer's decision to prefer remote work?<br>
     3 - What programming languages or technologies are correlated with higher income?
 
 Questions Answered:
